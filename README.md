@@ -74,10 +74,4 @@ Made with ❤️ for learning and practice.
 
 ---
 
-### 📜 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to generate this as an actual `README.md` file for download.
