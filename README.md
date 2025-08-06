@@ -1,7 +1,4 @@
 # Calculator-
-Here’s a simple **README.md** file you can use for your calculator project on GitHub. It's written with a student/fresher-friendly tone:
-
----
 
 ## 🧮 Simple Python Calculator (CLI Based)
 
