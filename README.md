@@ -32,7 +32,7 @@ This is a beginner-friendly command-line calculator built using **Python**. It s
 2. **Run the Python script:**
 
    ```bash
-   python calculator.py
+   python app.py
    ```
 
 ---
