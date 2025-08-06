@@ -1,4 +1,3 @@
-# Calculator-
 
 ## 🧮 Simple Python Calculator (CLI Based)
 
@@ -32,7 +31,7 @@ This is a beginner-friendly command-line calculator built using **Python**. It s
 2. **Run the Python script:**
 
    ```bash
-   python app.py
+   python calculator.py
    ```
 
 ---
@@ -59,7 +58,7 @@ Result: 8
 
 | File Name       | Description                   |
 | --------------- | ----------------------------- |
-| `app.py` | Main Python calculator script |
+| `calculator.py` | Main Python calculator script |
 
 ---
 
